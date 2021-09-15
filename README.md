@@ -13,7 +13,7 @@ Inspired by [小米遠端賽車](https://www.youtube.com/watch?v=bRnGjvRkgLA) + 
 
 ### Turn Left (with speed control)
 ![image](https://user-images.githubusercontent.com/56266480/133376946-18b866eb-36c9-4978-b892-4dc4dc4fb190.png)
-
+<br>
 
 ### Turn Right (with speed control)
 ![image](https://user-images.githubusercontent.com/56266480/133377113-ddf40c76-8474-4363-89dc-e6ba4bfd8bd7.png)
@@ -28,4 +28,4 @@ Inspired by [小米遠端賽車](https://www.youtube.com/watch?v=bRnGjvRkgLA) + 
 
 
 ## Demo Video:
-{%youtube 1i2Msx9ccJI%}
+{%youtube 1i2Msx9ccJI %}
