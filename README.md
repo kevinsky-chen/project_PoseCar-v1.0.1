@@ -28,4 +28,5 @@ Inspired by [小米遠端賽車](https://www.youtube.com/watch?v=bRnGjvRkgLA) + 
 
 
 ## Demo Video:
+@[youtube](https://www.youtube.com/watch?v=1i2Msx9ccJI)
 {%youtube 1i2Msx9ccJI %}
