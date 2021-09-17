@@ -1,5 +1,5 @@
 # project_PoseCar-v1.0.1
-PoseCar is a prototype of Next-generation controll application. 
+PoseCar is a prototype of Next-generation control application. 
 Inspired by [小米遠端賽車](https://www.youtube.com/watch?v=bRnGjvRkgLA) + [Xbox 體感控制遊戲](https://www.xbox.com/zh-TW)
 
 ## UI Introduction:
