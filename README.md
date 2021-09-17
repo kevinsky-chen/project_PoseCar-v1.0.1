@@ -7,7 +7,7 @@ Inspired by [小米遠端賽車](https://www.youtube.com/watch?v=bRnGjvRkgLA) + 
 ![介面簡介](https://user-images.githubusercontent.com/56266480/133374558-65ad3861-3bdf-417c-b727-3dff14034714.png)
 
 - There are five basic functions, which are **Turn Left**, **Turn Right**, **Go Forward**, **Back Up**, **Brake**.
-- Moreover, **Drowsiness Detection** and **Face Detection Anti-theft** are enabled.
+- Moreover, **Drowsiness Detection** and **Face Detection for Anti-theft** are enabled.
 - P.S. **Autonomous Driving** mode is not yet enabled.
 
 
